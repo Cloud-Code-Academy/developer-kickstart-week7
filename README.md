@@ -14,7 +14,7 @@ During this repository, you will enrich your understanding of:
 By mastering these advanced trigger techniques, you'll augment your capacity to craft sophisticated, efficient, and maintainable triggers. This solidifies your proficiency in harnessing the full potential of Apex triggers, a cornerstone for advanced Salesforce development.
 
 ## Setup
-[Setup Overview](https://learn.cloudcodeacademy.com/courses/salesforce-developer-kickstart-program/lectures/47317682)
+[Setup Overview](https://courses.cloudcodeacademy.com/products/developer-kickstart-program/categories/2157463862/posts/2186902071)
 
 ## Setup Checklist
 1. Create/Configure a trailhead playground or developer org to do your work throughout this program.
